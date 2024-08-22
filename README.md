@@ -41,6 +41,3 @@ npm run dev
 cd frontend
 npm start
 ```
-
-## Demo can be found here
-https://mern-authentication-jwt-demo.herokuapp.com
